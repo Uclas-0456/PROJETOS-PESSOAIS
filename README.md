@@ -4,7 +4,13 @@
 <h2>Um dos meus primeiro projetos</h2>
 <br>
 <br>
-<img src=""><img width="1332" height="591" alt="image" src="https://github.com/user-attachments/assets/eb2c2311-332f-4d59-809b-a0a970f5f1ec" />
-
-
+<h2>Tecnologias usadas</h2>
+<br>
+<ul>
+      <li>HTML</li>
+      <li>CSS</li>
+</ul>
+<br>
+<br>
+<img src="">
 
